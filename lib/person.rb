@@ -1,5 +1,7 @@
 class Person
-  attr_accessor :name
+  def initialize(name)
+    beyonce = Person.new("Beyonce")
+  end 
 end
 
-beyonce = Person.new("Beyonce")
+
