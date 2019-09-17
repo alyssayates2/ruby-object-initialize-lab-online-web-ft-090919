@@ -1,5 +1,5 @@
 class Person
-  def initialize(name)
+  def initialize
     beyonce = Person.new("Beyonce")
   end
 end
