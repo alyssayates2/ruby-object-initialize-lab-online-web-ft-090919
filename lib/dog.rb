@@ -24,4 +24,6 @@ class Dog
   end
 end
 
-dog1 = Dog.new("Fido", "Pug")
+fido = Dog.new("Pug")
+
+fido.breed
