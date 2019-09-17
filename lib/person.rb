@@ -1,2 +1,5 @@
 class Person
-end 
+  attr_accessor :name
+end
+
+beyonce = Person.new("Beyonce")
